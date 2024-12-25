@@ -1,0 +1,47 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "Moonlight Mods Dynamic Assets",
+    "$polymer-resources",
+    "minecraft:highlight_extended",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "file/CTM-Overhaul-V_5.0.zip",
+    "cullleaves:smartleaves",
+    "seasons:seasonal_lush_caves",
+    "subtle_effects:biome_color_water_particles",
+    "file/Icons v.1.9.1\u00A77.zip",
+    "file/Icons+Menu+(Put+Above+Icons).zip",
+    "file/[1.4.1] Enhanced Boss Bars.zip",
+    "file/Round-Trees-7.1-1.19+.zip",
+    "file/Better-Leaves-8.1-1.20+.zip",
+    "file/FreshAnimations_v1.9.2.zip",
+    "file/Eyeless Fresh Moves v3.0.1.zip"
+  ],
+  "pack_overrides": {
+    "1": [
+      "$polymer-resources",
+      "minecraft:highlight_extended",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix",
+      "file/CTM-Overhaul-V_5.0.zip",
+      "cullleaves:smartleaves",
+      "seasons:seasonal_lush_caves",
+      "subtle_effects:biome_color_water_particles",
+      "file/Icons v.1.9.1\u00A77.zip",
+      "file/Icons+Menu+(Put+Above+Icons).zip",
+      "file/[1.4.1] Enhanced Boss Bars.zip",
+      "file/Round-Trees-7.1-1.19+.zip",
+      "file/Better-Leaves-8.1-1.20+.zip",
+      "file/FreshAnimations_v1.9.2.zip",
+      "file/Eyeless Fresh Moves v3.0.1.zip"
+    ],
+    "$$1": {
+      "required": true,
+      "fixed_position": false
+    }
+  }
+}
