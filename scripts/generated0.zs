@@ -1,0 +1,1 @@
+craftingTable.addShaped("great.chalice", <item:knightlib:great_chalice> * 1, [[<item:minecraft:copper_ingot>, <item:minecraft:air>, <item:minecraft:copper_ingot>], [<item:minecraft:copper_ingot>, <item:minecraft:copper_ingot>, <item:minecraft:copper_ingot>], [<item:minecraft:cut_copper_slab>, <item:minecraft:cut_copper_slab>, <item:minecraft:cut_copper_slab>]]);

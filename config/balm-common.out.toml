@@ -98,13 +98,13 @@ dimensionDenyList = [  ]
 forceSpawnInVillages = false
 
 # Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
-frequency = 25
+frequency = 0
 
 # Set to 'PRESET_FIRST' to first use names from the custom names list. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.
 nameGenerationMode = "PRESET_FIRST"
 
 # Set to true if waystones should be added to the generation of villages. Some villages may still spawn without a waystone.
-spawnInVillages = true
+spawnInVillages = false
 
 # Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
 worldGenStyle = "BIOME"
@@ -118,16 +118,16 @@ blocksPerXpLevel = 1000
 dimensionalWarpXpCost = 3
 
 # The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
-globalWaystoneXpCostMultiplier = 0.0
+globalWaystoneXpCostMultiplier = 1.0
 
 # The multiplier applied to the base xp cost when teleporting via the inventory button.
-inventoryButtonXpCostMultiplier = 0.0
+inventoryButtonXpCostMultiplier = 1.5
 
 # Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
 inverseXpCost = false
 
 # The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
-maximumBaseXpCost = 3.0
+maximumBaseXpCost = 10.0
 
 # The minimum base xp cost (may be subceeded by multipliers defined below)
 minimumBaseXpCost = 0.0

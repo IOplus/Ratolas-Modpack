@@ -13,13 +13,13 @@
     "cullleaves:smartleaves",
     "seasons:seasonal_lush_caves",
     "subtle_effects:biome_color_water_particles",
-    "file/Icons v.1.9.1\u00A77.zip",
-    "file/Icons+Menu+(Put+Above+Icons).zip",
-    "file/[1.4.1] Enhanced Boss Bars.zip",
     "file/Round-Trees-7.1-1.19+.zip",
     "file/Better-Leaves-8.1-1.20+.zip",
     "file/FreshAnimations_v1.9.2.zip",
-    "file/Eyeless Fresh Moves v3.0.1.zip"
+    "file/Eyeless Fresh Moves v3.0.1.zip",
+    "file/Icons v.1.9.1\u00A77.zip",
+    "file/Icons+Menu+(Put+Above+Icons).zip",
+    "file/[1.4.1] Enhanced Boss Bars.zip"
   ],
   "pack_overrides": {
     "1": [
@@ -31,13 +31,13 @@
       "cullleaves:smartleaves",
       "seasons:seasonal_lush_caves",
       "subtle_effects:biome_color_water_particles",
-      "file/Icons v.1.9.1\u00A77.zip",
-      "file/Icons+Menu+(Put+Above+Icons).zip",
-      "file/[1.4.1] Enhanced Boss Bars.zip",
       "file/Round-Trees-7.1-1.19+.zip",
       "file/Better-Leaves-8.1-1.20+.zip",
       "file/FreshAnimations_v1.9.2.zip",
-      "file/Eyeless Fresh Moves v3.0.1.zip"
+      "file/Eyeless Fresh Moves v3.0.1.zip",
+      "file/Icons v.1.9.1\u00A77.zip",
+      "file/Icons+Menu+(Put+Above+Icons).zip",
+      "file/[1.4.1] Enhanced Boss Bars.zip"
     ],
     "$$1": {
       "required": true,

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","$polymer-resources","minecraft:highlight_extended","continuity:default","file/CTM-Overhaul-V_5.0.zip","continuity:glass_pane_culling_fix","cullleaves:smartleaves","seasons:seasonal_lush_caves","subtle_effects:biome_color_water_particles","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/[1.4.1] Enhanced Boss Bars.zip","file/Default HD 128x Beta 2.0.4.zip","file/Default HD PBR Addon Beta 1.5.zip","file/Round-Trees-7.1-1.19+.zip","file/Better-Leaves-8.1-1.20+.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","$polymer-resources","minecraft:highlight_extended","continuity:default","file/CTM-Overhaul-V_5.0.zip","continuity:glass_pane_culling_fix","cullleaves:smartleaves","seasons:seasonal_lush_caves","subtle_effects:biome_color_water_particles","file/Default HD 128x Beta 2.0.4.zip","file/Default HD PBR Addon Beta 1.5.zip","file/Round-Trees-7.1-1.19+.zip","file/Better-Leaves-8.1-1.20+.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/[1.4.1] Enhanced Boss Bars.zip"]
 incompatibleResourcePacks:["file/Default HD 128x Beta 2.0.4.zip","file/Default HD PBR Addon Beta 1.5.zip","file/Round-Trees-7.1-1.19+.zip"]
 lastServer:
 lang:en_us

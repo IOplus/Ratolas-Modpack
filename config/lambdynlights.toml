@@ -76,6 +76,10 @@
 				husk = true
 				painting = true
 				goat = true
+				boat = true
+				wither_skeleton = true
+				donkey = true
+				fishing_bobber = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
@@ -89,6 +93,7 @@
 				dark_oak_enderman = true
 				swamp_enderman = true
 				mushroom_fields_enderman = true
+				badlands_enderman = true
 
 			[light_sources.settings.entities.dragon_mounts]
 				dragon = true
@@ -106,6 +111,7 @@
 				savannah_creeper = true
 				spruce_creeper = true
 				hills_creeper = true
+				badlands_creeper = true
 
 			[light_sources.settings.entities.deeperdarker]
 				stalker = true
@@ -196,6 +202,7 @@
 			[light_sources.settings.entities.immersive_aircraft]
 				biplane = true
 				bullet = true
+				quadrocopter = true
 
 			[light_sources.settings.entities.darkwaters]
 				mohast = true
@@ -209,6 +216,7 @@
 				corrupted_pillager = true
 				acolyte = true
 				corrupted_vindicator = true
+				wraith = true
 
 			[light_sources.settings.entities.the_bumblezone]
 				rootmin = true
@@ -225,6 +233,8 @@
 				pike = true
 				trout = true
 				catfish = true
+				clayfish = true
+				fishing_bobber = true
 
 			[light_sources.settings.entities.levelz]
 				level_experience_orb = true
@@ -239,4 +249,6 @@
 				ratman = true
 				ghosty = true
 				eldbomb = true
+				eldknight = true
+				swampman = true
 
